@@ -69,12 +69,24 @@
       <workItem from="1576735532684" duration="1590000" />
       <workItem from="1576738408725" duration="2068000" />
       <workItem from="1576743172797" duration="3020000" />
-      <workItem from="1576766179359" duration="3473000" />
+      <workItem from="1576766179359" duration="3683000" />
     </task>
+    <task id="LOCAL-00001" summary="测试本地仓库。。">
+      <created>1576770784811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576770784811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试本地仓库。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试本地仓库。。" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="223" key="#Menus_and_Toolbars" timestamp="1576749400708">
@@ -85,6 +97,10 @@
       <screen x="0" y="23" width="1792" height="1034" />
     </state>
     <state x="602" y="266" key="#Project_Structure/0.23.1792.1034@0.23.1792.1034" timestamp="1576737981799" />
+    <state x="256" y="35" key="CommitChangelistDialog2" timestamp="1576770784598">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="256" y="35" key="CommitChangelistDialog2/0.23.1792.1030@0.23.1792.1030" timestamp="1576770784598" />
     <state width="1358" height="269" key="GridCell.Tab.0.bottom" timestamp="1576738220483">
       <screen x="0" y="23" width="1792" height="1036" />
     </state>
